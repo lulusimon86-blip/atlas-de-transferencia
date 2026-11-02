@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Si usás esta herramienta, por favor citala con estos datos."
+title: "Atlas de Transferencia"
+version: "1.0"
+date-released: 2026-11-02
+type: software
+license: CC-BY-4.0
+authors:
+  - family-names: "Simón Delfino"
+    given-names: "Lucía"
+    affiliation: "Universidad de la República (Udelar), Facultad de Información y Comunicación"
+abstract: "Herramienta de visualización interactiva de las relaciones entre intereses de investigación normalizados con AGROVOC y los problemas a cuya resolución podrían contribuir, en ciencias agrarias en Uruguay. Producto de la tesis de maestría La representación del conocimiento como puente entre capacidades de investigación y resolución de problemas nacionales: el caso de las ciencias agrarias en Uruguay."
+keywords:
+  - representación del conocimiento
+  - AGROVOC
+  - ciencias agrarias
+  - Uruguay
+  - política científica
